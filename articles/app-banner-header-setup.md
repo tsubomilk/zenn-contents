@@ -21,11 +21,11 @@ App Store / Google Playの直接リンクをSNSに投稿する場合は必要な
 ## 1. App Banner とは？
 - **Safari（iOS）**  
   ページ上部に「アプリを開く / App Store」バーが出ます。  
-<img src="../images/app-banner2.png" alt="App Banner" width="400" />
+![](../images/app-banner2.png)
 
 - **Facebook**  
   投稿下に「開く / インストールバー」が自動で出ます。  
-<img src="../images/app-banner.jpg" alt="App Banner" width="400" />
+![](../images/app-banner.jpg)
 
 👉 つまり「正しくタグを埋め込む」と **アプリへの導線が自動生成** される仕組みです。
 
